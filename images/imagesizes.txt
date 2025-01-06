@@ -1,0 +1,9 @@
+IMage sizes for website:
+
+Header (bg1) : 1680 x 850
+Header thumbnail (bg1-s) : 70 x 70
+About us (ab): 560 x 350
+Gallary-home page pictures (G): 418 x 260
+Gallary-product pictures (G): 640 x 400
+
+Background for vision/mission(s3) : 1280 x 673
